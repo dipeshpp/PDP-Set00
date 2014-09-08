@@ -1,0 +1,20 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+3/9   Dipesh	10:05 10:15                 1 	     10 	 Signed up for CCIS account
+3/9   Dipesh    10:20 10:45                 2        25          Installed Office 365 	
+3/9   Dipesh    11:00 11:10		    3	     10		 Signed up for CS 5010 on piazza.com	
+3/9   Dipesh    11:10 11:11		    4        1           Making sure wireless is working	
+3/9   Dipesh    11:15 11:30                 5        15          Downloaded & installed Racket  
+3/9   Dipesh    11:30 11:45                 6        15          Signed up for GitHub
+    
+Total Time On Task Q1 (minutes)                  10 
+Total Time On Task Q2 (minutes)                  25 
+Total Time On Task Q3 (minutes)                  10 
+Total Time On Task Q4 (minutes)                  1 
+Total Time On Task Q5 (minutes)                  15 
+Total Time On Task Q6 (minutes)                  15 
+TOTQ1 (hours and tenths)                         0.2 
+TOTQ2 (hours and tenths)                         0.4
+TOTQ3 (hours and tenths)                         0.2 
+TOTQ4 (hours and tenths)                         0.0
+TOTQ5 (hours and tenths)                         0.3 
+TOTQ6 (hours and tenths)                         0.3

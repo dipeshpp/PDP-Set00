@@ -1,20 +1,22 @@
 Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
-3/9   Dipesh	10:05 10:15                 1 	     10 	 Signed up for CCIS account
-3/9   Dipesh    10:20 10:45                 2        25          Installed Office 365 	
-3/9   Dipesh    11:00 11:10		    3	     10		 Signed up for CS 5010 on piazza.com	
-3/9   Dipesh    11:10 11:11		    4        1           Making sure wireless is working	
-3/9   Dipesh    11:15 11:30                 5        15          Downloaded & installed Racket  
-3/9   Dipesh    11:30 11:45                 6        15          Signed up for GitHub
+6/9   Dipesh	14:30 21:00    30           - 	     360  	 Readings from the textbook
+6/9   Dipesh    21:30 23:00                 -        90          John Clements' Racket Videos
+6/9   Dipesh 	23:00 23:30                 -        30          Lessons 0.1 to 0.3
+6/9   Dipesh    23:30 23:45                 -        15          Lessons 0.5 and 0.6
+6/9   Dipesh    23:45 00:00                 -	     15          Git Laboratory Exercises		
+=============================committing to git: 7/9 00:15=============================
+7/9   Dipesh    18:00 21:30    30           -        180         Lesson 0.4 Ex.1 to 10
+=============================committing to git: 7/9 21:40=============================
     
-Total Time On Task Q1 (minutes)                  10 
-Total Time On Task Q2 (minutes)                  25 
-Total Time On Task Q3 (minutes)                  10 
-Total Time On Task Q4 (minutes)                  1 
-Total Time On Task Q5 (minutes)                  15 
-Total Time On Task Q6 (minutes)                  15 
-TOTQ1 (hours and tenths)                         0.2 
-TOTQ2 (hours and tenths)                         0.4
-TOTQ3 (hours and tenths)                         0.2 
-TOTQ4 (hours and tenths)                         0.0
-TOTQ5 (hours and tenths)                         0.3 
-TOTQ6 (hours and tenths)                         0.3
+Total time on the readings task  (minutes)      360 
+Total time on videos (minutes)                  90 
+Total time on lessons 0.1 to 0.3 (minutes)      30  
+Total time on lessons 0.5 & 0.6 (minutes)       15
+Total time on Git Laboratory Exercises          15
+Total time on Lesson 0.4 exercises              180
+
+TOT_reading (hours and tenths)                  6.0
+TOT_videos (hours and tenths)                   1.5
+TOT_lessons (hours and tenths)                  0.8
+TOT_gitexercises (hours and tenths)		0.3	
+TOT_lesson0.4 (hours and tenths)		3.0
