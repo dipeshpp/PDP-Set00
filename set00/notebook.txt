@@ -7,16 +7,18 @@ Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
 =============================committing to git: 7/9 00:15=============================
 7/9   Dipesh    18:00 21:30    30           -        180         Lesson 0.4 Ex.1 to 10
 =============================committing to git: 7/9 21:40=============================
-    
+11/9  Dipesh    19:00 20:30                 -        90          Lesson 0.4 Ex.11 to 15
+=============================committing to git: 11/9 20:30============================ 
+     
 Total time on the readings task  (minutes)      360 
 Total time on videos (minutes)                  90 
 Total time on lessons 0.1 to 0.3 (minutes)      30  
 Total time on lessons 0.5 & 0.6 (minutes)       15
 Total time on Git Laboratory Exercises          15
-Total time on Lesson 0.4 exercises              180
+Total time on Lesson 0.4 exercises              270
 
 TOT_reading (hours and tenths)                  6.0
 TOT_videos (hours and tenths)                   1.5
 TOT_lessons (hours and tenths)                  0.8
 TOT_gitexercises (hours and tenths)		0.3	
-TOT_lesson0.4 (hours and tenths)		3.0
+TOT_lesson0.4 (hours and tenths)		4.5
