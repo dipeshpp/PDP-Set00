@@ -20,8 +20,22 @@
    (person-weight p)))
 |#
 
+
 ;function person-image
 
+(define (person-image p) (above (scale (person-height p) 
+                                (add-line
+                                 (add-line
+                                  (add-line
+                                   (add-line
+                                    (overlay/offset (circle 20 "outline" "black")  0 55 (rectangle 05 70 "outline" "black")) 
+                                    22 40 54 75 "black")
+                                   17 40 -10 75 "black")
+                                  32 110 64 145 "black")
+                                 27 110 0 145 "black")) (text (string-append (person-first-name p)" "(person-last-name p)) 20 "black") ))
+
+
+
+(person-image (make-person "Dipesh" "Panchal" 24 3 65))
+
 ;Ex21a: extend -person-image such that the full (first + last) name of the person is drawn below the image of the person.
-(define-struct person (first-name last-name age height weight))
-(person-first-name (make-person "Dipesh" "Panchal" 24 180 120))

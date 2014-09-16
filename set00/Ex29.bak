@@ -1,0 +1,43 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname Ex29) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp")))))
+;beside/align 
+
+
+(beside/align "bottom"
+                (add-line
+(add-line
+(add-line
+(add-line
+(overlay/offset (circle 20 "outline" "black")  0 55 (rectangle 05 70 "outline" "black")) 
+22 40 54 75 "black")
+17 40 -10 75 "black")
+32 110 64 145 "black")
+27 110 0 145 "black")
+                (add-line
+(add-line
+(add-line
+(add-line
+(overlay/offset (circle 20 "outline" "black")  0 55 (rectangle 05 70 "outline" "black")) 
+22 40 54 75 "black")
+17 40 -10 75 "black")
+32 110 64 145 "black")
+27 110 0 145 "black")
+                (add-line
+(add-line
+(add-line
+(add-line
+(overlay/offset (circle 20 "outline" "black")  0 55 (rectangle 05 70 "outline" "black")) 
+22 40 54 75 "black")
+17 40 -10 75 "black")
+32 110 64 145 "black")
+27 110 0 145 "black")
+                (add-line
+(add-line
+(add-line
+(add-line
+(overlay/offset (circle 20 "outline" "black")  0 55 (rectangle 05 70 "outline" "black")) 
+22 40 54 75 "black")
+17 40 -10 75 "black")
+32 110 64 145 "black")
+27 110 0 145 "black"))
